@@ -1,12 +1,6 @@
 if game.PlaceId == 6429911702 then -- Masters Difficulty Chart Obby
     loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/MastersDifficultyChartObby"))()
 
-    elseif game.PlaceId == 6516141723 then -- DOORS
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/Doors"))()
-
-    elseif game.PlaceId == 6839171747 then -- DOORS
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/Doors"))()
-
     elseif game.PlaceId == 8884334497 then -- Mining Clicker Simulator
     loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/MiningClickerSimulator"))()
 

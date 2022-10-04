@@ -1,0 +1,27 @@
+if game.PlaceId == 6429911702 then -- Masters Difficulty Chart Obby
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/MastersDifficultyChartObby"))()
+
+    elseif game.PlaceId == 8884334497 then -- Mining Clicker Simulator
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/MiningClickerSimulator"))()
+
+    elseif game.PlaceId == 2537430692 then -- Jenga
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/Jenga"))()
+
+    elseif game.PlaceId == 10347946161 then -- Rat Washing Tycoon
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/RatWashingTycoon"))()
+
+    elseif game.PlaceId == 8674186618 then -- Crate Opening Incremental
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/CrateOpeningIncremental"))()
+
+    elseif game.PlaceId == 10676523834 then -- Racing Rocket
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/RacingRocket"))()
+
+    elseif game.PlaceId == 537413528 then -- Build A Boat For Treasure
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/BuildABoatForTreasure"))()
+
+    elseif game.PlaceId == 9992339729 then -- Longest Answer Wins
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/LongestAnswerWins"))()
+
+    else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/Universal"))()
+end

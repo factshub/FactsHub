@@ -22,6 +22,9 @@ if game.PlaceId == 6429911702 then -- Masters Difficulty Chart Obby
     elseif game.PlaceId == 9992339729 then -- Longest Answer Wins
     loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/LongestAnswerWins"))()
 
+    elseif game.PlaceId == 9872472334 then -- Evade
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/Evade"))()
+
     else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/factshub/FactsHub/main/Universal"))()
 end
